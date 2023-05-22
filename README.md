@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on conflict prediction with machine learning<br>🌱 I’m currently learning reinforcement learning<br>
+🌱 I’m currently learning reinforcement learning<br>
 
 
 ## 🌐 Socials:
